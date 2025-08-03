@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Bientôt disponible</title>
+
+  <style>
+
+    body {
+
+      text-align: center;
+
+      padding-top: 50px;
+
+      font-family: Arial, sans-serif;
+
+    }
+
+    img {
+
+      max-width: 90%;
+
+      height: auto;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1 style="background-color: #f1c40f; color: #000;"> Gestion de projet 
+
+</h1>
+
+  <a href="https://ibb.co/DHzxV5pL"><img src="https://i.ibb.co/cSkGgDLx/bientorange-2x.png" alt="bientorange-2x" border="0"></a>
+
+</body>
+
+</html>
